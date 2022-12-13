@@ -1,0 +1,4 @@
+bot:
+  name: "https://t.me/ScheduleBikBot"
+  token: "5573705009:AAFeAc1drfBS9WuAzhwqB_lCVytTFJwZJmA"
+  url: "https://localhost:3000/"
