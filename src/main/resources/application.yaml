@@ -1,4 +1,11 @@
+server:
+  ssl:
+    key-store-password: changeit
+    key-store-type: PKCS12
+    enabled: true
+    key-store: classpath:java_ssl.p12
+
 bot:
-  name: "https://t.me/ScheduleBikBot"
-  token: "5573705009:AAFeAc1drfBS9WuAzhwqB_lCVytTFJwZJmA"
-  url: "https://localhost:3000/"
+  name: "t.me/managment_webapp_bot"
+  token: "5839777758:AAE5RcdjHyLPcJ3QjvKRaKED8rv9tcI5X64"
+  url: "https://192.168.111.159:3000"
